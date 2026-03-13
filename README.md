@@ -3,4 +3,4 @@
 Tugas praktikum Pertemuan 2 - Pemrograman Mobile.
 
 ## 📸 Screenshots
-![Preview Aplikasi](assets/Manisha.jpeg)
+![Preview Aplikasi](.assets/image/Manisha.jpeg)
